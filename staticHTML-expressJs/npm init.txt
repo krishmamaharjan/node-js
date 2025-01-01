@@ -1,0 +1,6 @@
+npm init
+npm install express
+
+express lai initialize
+express router
+express server serve on port 8888
